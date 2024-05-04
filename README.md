@@ -4,12 +4,8 @@
 
 - 💼 Desenvolvedor Full-stack 
 
-<a href="https://github.com/luizh3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizh3&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Luizh3 github status" />
-</a>
-<a href="https://github.com/luizh3/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizh3&layout=compact&theme=buefy&hide_border=true" />
-</a>
+| <a href="https://github.com/luizh3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luizh3&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Luizh3 github status" /></a> | <a href="https://github.com/luizh3"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizh3&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## Tecnologias que uso com frequência 
 
