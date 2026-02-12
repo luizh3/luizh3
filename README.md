@@ -3,7 +3,7 @@
 **Sobre mim**
 
 - 💼 Desenvolvedor Full-stack
-- 👨‍🎓 Cursando engenharia de software
+- 👨‍🎓 Engenheiro de Software
 
 <div style="display: inline_block">
   <a href="https://github.com/luizh3">
